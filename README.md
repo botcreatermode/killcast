@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/k9L3q2x.jpg"></p>
-<h4 align="center">
 Manipulate Chromecast Devices in your Network
 </h4>
 
@@ -54,7 +52,7 @@ pacman -S killcast
 ### Ubuntu / Kali Linux / Termux
 
 ```
-git clone https://github.com/thewhiteh4t/killcast.git
+git clone https://github.com/botcreatermode/killcast.git
 cd killcast
 pip3 install requests
 ```
@@ -76,9 +74,3 @@ optional arguments:
 ```
 python3 killcast.py -t 192.168.0.100
 ```
-
-## Demo
-
-| Demo | Link |
-|-|-|
-| First Version | https://www.youtube.com/watch?v=8wmWnMVE2aw |
